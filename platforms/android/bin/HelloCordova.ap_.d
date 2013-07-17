@@ -34,8 +34,11 @@
 /Users/tmp/Desktop/Cordova/HelloWorld/platforms/android/assets/www/spec \
 /Users/tmp/Desktop/Cordova/HelloWorld/platforms/android/assets/www/spec.html \
 /Users/tmp/Desktop/Cordova/HelloWorld/platforms/android/assets/www/css/index.css \
+/Users/tmp/Desktop/Cordova/HelloWorld/platforms/android/assets/www/css/jquery.mobile-1.3.1.css \
 /Users/tmp/Desktop/Cordova/HelloWorld/platforms/android/assets/www/img/logo.png \
 /Users/tmp/Desktop/Cordova/HelloWorld/platforms/android/assets/www/js/index.js \
+/Users/tmp/Desktop/Cordova/HelloWorld/platforms/android/assets/www/js/jquery-1.10.2.js \
+/Users/tmp/Desktop/Cordova/HelloWorld/platforms/android/assets/www/js/jquery.mobile-1.3.1.js \
 /Users/tmp/Desktop/Cordova/HelloWorld/platforms/android/assets/www/res/icon \
 /Users/tmp/Desktop/Cordova/HelloWorld/platforms/android/assets/www/res/screen \
 /Users/tmp/Desktop/Cordova/HelloWorld/platforms/android/assets/www/res/icon/android \
